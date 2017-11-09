@@ -1,18 +1,29 @@
 div{
-  width: 200px; /*2  ejercicio  */
-  heigth: 100px;
-  padding:  20px 5px 0px 5px;
-  margin boton: 10px;
-  display: inline; /* 3 ejercicio* + margin right: 10 px */
+  /*width: 200px; /*2  ejercicio  */
+  height: 100px;
+  padding:  10px 0px 0px 5px;
+  margin-bottom:  10px;
+  /*display: inline; /* 3 ejercicio* + margin right: 10 px */
 }
-.bandera-amarilla{
-  background-color:#F7B617;
-}
-.bandera-gris{
-  background-color:#2B2B2B;
-  color:#FFF
-  }
+.dos{
+  width: 30%;
 
+}
+.tres{
+  width: 32%;
+  display:inline-block;
+}
+.cuatro{
+  display:inline;
+}
+
+  .bandera-amarilla{
+    background-color:#F7B617;
+  }
+  .bandera-gris{
+    background-color:#2B2B2B;
+    color:#FFF
+    }
 
 /* siempre se  selectores de  etiquetas rojos. 2  selectores de div.
 /* 3
